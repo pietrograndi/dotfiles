@@ -14,7 +14,6 @@ cask 'spotify'
 cask 'prusaslicer'
 cask 'karabiner-elements'
 cask 'google-chrome'
-cask 'docker'
 
 brew 'neovim'
 brew 'powerlevel10k'
