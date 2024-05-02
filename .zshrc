@@ -110,7 +110,9 @@ alias vim="nvim"
 alias zshconfig="vim ~/.zshrc"
 alias reloadzshconfig="source ~/.zshrc"
 alias c="clear"
+alias lg="lazygit"
 alias personal="cd ~/Documents/personal"
+alias cat="bat"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 source /usr/local/share/powerlevel10k/powerlevel10k.zsh-theme
 
